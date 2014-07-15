@@ -5,6 +5,7 @@ An unofficial multi-plateform downloader for the seedbox plateform Justseed.it .
 Download Link:
 ========================
 MEGA.co.nz: https://mega.co.nz/#!Ek8CSbpY!AprYuDaN66s9g2i6w9YeLc8HTRZ4ZG0J5JGj7X70pV0
+
 Dropbox: https://dl.dropboxusercontent.com/u/49261062/justseedit_guidownloader_v1.0.zip
 
 Requirement:
